@@ -1,0 +1,101 @@
+dataset_source,category_id,category_name,length_cm,width_cm,height_cm,typical_len_cm,min_len_cm,max_len_cm,source_reference
+COCO,1,human hand,19.3,9.0,3.0,19.3,18.91,19.69,ANSUR II - Hand Length/Breadth/Depth
+COCO,1,human face,20.0,15.0,24.0,24.0,23.52,24.48,ANSUR II - Head/Face Dimensions
+COCO,1,human foot,26.5,10.0,7.0,26.5,25.97,27.03,ANSUR II - Foot Length/Breadth
+COCO,22,elephant,600.0,200.0,320.0,600.0,540.0,660.0,ADW - Loxodonta africana
+COCO,25,giraffe,500.0,120.0,500.0,500.0,450.0,550.0,ADW - Giraffa camelopardalis
+COCO,19,horse,240.0,80.0,160.0,240.0,216.0,264.0,ADW - Equus caballus
+COCO,21,cow,250.0,90.0,150.0,250.0,225.0,275.0,ADW - Bos taurus
+COCO,23,bear,200.0,80.0,110.0,200.0,180.0,220.0,ADW - Ursus arctos
+COCO,24,zebra,230.0,75.0,140.0,230.0,207.0,253.0,ADW - Equus quagga
+COCO,20,sheep,130.0,45.0,80.0,130.0,117.0,143.0,ADW - Ovis aries
+COCO,17,cat,46.0,15.0,25.0,46.0,41.4,50.6,ADW - Felis catus
+LVIS,867,rabbit,40.0,15.0,20.0,40.0,36.0,44.0,ADW - Oryctolagus cuniculus
+LVIS,781,mouse (animal),10.0,4.0,4.0,10.0,9.0,11.0,ADW - Mus musculus
+LVIS,466,frog,8.0,5.0,4.0,8.0,7.2,8.8,ADW - Rana temporaria
+LVIS,847,penguin,30.0,20.0,70.0,70.0,63.0,77.0,ADW - Spheniscidae typical
+LVIS,1121,turtle,30.0,25.0,15.0,30.0,27.0,33.0,ADW - Trachemys scripta
+LVIS,103,baseball,7.4,7.4,7.4,7.4,7.25,7.55,MLB Official Rules - Rule 3.01
+LVIS,1144,volleyball,21.0,21.0,21.0,21.0,20.58,21.42,FIVB Official Rules - Section 3.1
+LVIS,802,ping-pong ball,4.0,4.0,4.0,4.0,3.92,4.08,ITTF Rules - Section 2.3
+LVIS,507,golf ball,4.27,4.27,4.27,4.27,4.18,4.36,USGA Rules of Golf
+LVIS,92,basketball,24.0,24.0,24.0,24.0,23.52,24.48,FIBA Official Basketball Rules
+LVIS,975,soccer ball,22.0,22.0,22.0,22.0,21.56,22.44,FIFA Laws of the Game - Law 2
+LVIS,114,billiard ball,5.7,5.7,5.7,5.7,5.59,5.81,WPA World Standardised Rules
+LVIS,163,bowling ball,21.8,21.8,21.8,21.8,21.36,22.24,USBC Playing Rules
+COCO,38,tennis racket,68.6,27.0,3.0,68.6,67.23,69.97,ITF Rules of Tennis - Appendix II
+COCO,34,frisbee,27.4,27.4,3.2,27.4,26.85,27.95,WFDF Standard Ultimate Disc
+COCO,39,baseball bat,86.0,6.7,6.7,86.0,84.28,87.72,MLB Official Rules - Rule 3.02
+COCO,41,skateboard,80.0,20.0,12.0,80.0,78.4,81.6,Standard Skateboard Dimensions
+COCO,42,surfboard,200.0,50.0,6.0,200.0,196.0,204.0,Typical Shortboard Dimensions
+LVIS,468,football (american),28.26,17.08,17.08,28.26,27.94,28.57,NFL Rulebook (long axis 11–11.25 in; short circumference 21–21.25 in)
+COCO,76,keyboard,44.0,14.0,3.0,44.0,43.12,44.88,ANSI/HFES 100-2007 - Standard Full-Size
+COCO,74,computer mouse,11.5,6.5,4.0,11.5,11.27,11.73,ISO 9241-410 - Typical Mouse
+COCO,73,laptop,35.0,24.0,2.0,35.0,34.3,35.7,Standard 15-inch Laptop Chassis
+COCO,67,cell phone,15.0,7.5,0.8,15.0,14.7,15.3,Standard Smartphone (e.g. iPhone/Galaxy)
+COCO,72,tv,123.0,71.0,6.0,123.0,120.54,125.46,Typical 55-inch TV Dimensions
+COCO,78,microwave,50.0,40.0,30.0,50.0,49.0,51.0,ISO Standards - Standard Appliance
+COCO,80,toaster,28.0,18.0,20.0,28.0,27.44,28.56,ISO/TC 59 Kitchen Equipment
+LVIS,275,cd player,48.26,30.0,10.0,48.26,48.26,48.26,ANSI/EIA-310 19-inch rack (front panel width = 48.26 cm; other dims model-specific)
+LVIS,830,refrigerator,90.0,80.0,180.0,180.0,176.4,183.6,Standard French Door Fridge Dimensions
+LVIS,276,cd,12.0,12.0,0.12,12.0,11.76,12.24,Philips/Sony Red Book Standard
+LVIS,36,battery,5.0,1.4,1.4,5.0,4.9,5.1,ANSI C18.1M - AA Battery
+LVIS,305,credit card,8.56,5.4,0.08,8.56,8.39,8.73,ISO/IEC 7810 ID-1 standard
+LVIS,756,passport,12.5,8.8,,12.5,12.25,12.75,ISO/IEC 7810 ID-3 (125×88 mm; thickness depends on booklet design/pages)
+LVIS,700,notebook,29.7,21.0,,29.7,29.11,30.29,ISO 216 A4 (297×210 mm; thickness depends on notebook model/page count)
+LVIS,896,ruler,30.48,3.0,0.3,30.48,29.87,31.09,Standard 12-inch Ruler
+LVIS,763,pen,14.0,1.0,1.0,14.0,13.72,14.28,Standard Ballpoint Pen
+LVIS,764,pencil,19.0,0.7,0.7,19.0,18.62,19.38,Standard Unsharpened Pencil
+LVIS,753,paper clip,3.0,0.8,0.1,3.0,2.94,3.06,Standard #1 Paper Clip
+LVIS,926,scissors,15.0,6.0,0.5,15.0,14.7,15.3,Typical Office Scissors
+LVIS,1088,toothbrush,19.0,1.5,1.5,19.0,18.62,19.38,ISO 20126 - Toothbrush Standard
+LVIS,1109,toothpaste,20.0,4.0,3.0,20.0,19.6,20.4,Typical 150g Tube
+LVIS,665,lipstick,7.5,2.0,2.0,7.5,7.35,7.65,Standard Lipstick Tube
+LVIS,270,comb,18.0,4.0,0.4,18.0,17.64,18.36,Typical Hair Comb
+LVIS,688,matchbox,5.0,3.5,1.5,5.0,4.9,5.1,Standard Matchbox
+LVIS,298,cork,4.5,2.4,2.4,4.5,4.41,4.59,ISO 9727 - Wine Cork
+LVIS,657,light bulb,10.5,6.0,6.0,10.5,10.29,10.71,ANSI C78.20 Standard - A19 Bulb
+LVIS,826,plate,26.0,26.0,2.5,26.0,25.48,26.52,Standard Dinnerware Sizing (Dinner Plate)
+COCO,44,bottle,7.5,7.5,30.0,30.0,29.4,30.6,Standard 750ml Wine Bottle
+COCO,41,wine glass,8.0,8.0,22.0,22.0,21.56,22.44,Standard Red Wine Glass
+LVIS,720,mug,8.0,12.0,9.5,12.0,11.76,12.24,Standard 11oz Ceramic Mug (W includes handle)
+COCO,43,fork,19.0,2.5,1.5,19.0,18.62,19.38,Standard Dinner Fork
+COCO,44,knife,23.0,2.0,0.5,23.0,22.54,23.46,Standard Dinner Knife
+COCO,45,spoon,17.0,4.0,1.5,17.0,16.66,17.34,Standard Soup/Dessert Spoon
+COCO,46,bowl,15.0,15.0,7.0,15.0,14.7,15.3,Standard Soup Bowl
+LVIS,907,saltshaker,4.5,4.5,10.0,10.0,9.8,10.2,Standard Table Salt Shaker
+LVIS,195,can,6.6,6.6,11.5,11.5,11.27,11.73,Standard 330ml Soda Can
+LVIS,263,chopsticks,24.0,0.6,0.6,24.0,23.52,24.48,Standard Asian Chopsticks
+COCO,47,apple,7.5,7.5,7.0,7.5,6.75,8.25,USDA Standards - Extra Fancy
+COCO,49,orange,7.6,7.6,7.6,7.6,6.84,8.36,USDA Standards - Typical Orange
+COCO,46,banana,18.0,3.5,3.5,18.0,16.2,19.8,USDA Standards - Medium Banana
+COCO,51,carrot,16.0,2.5,2.5,16.0,14.4,17.6,USDA Standards for Carrots
+COCO,53,pizza,35.0,35.0,1.5,35.0,34.3,35.7,Standard Large Pizza
+COCO,54,donut,8.0,8.0,3.5,8.0,7.84,8.16,Standard Yeast Donut
+LVIS,401,egg,4.4,4.4,5.5,5.5,4.95,6.05,USDA Egg Grading Manual - Large Egg
+COCO,2,bicycle,175.0,60.0,100.0,175.0,171.5,178.5,Typical Adult Bicycle
+COCO,3,car,450.0,180.0,150.0,450.0,441.0,459.0,Typical Mid-size Sedan
+COCO,4,motorcycle,210.0,80.0,110.0,210.0,205.8,214.2,Typical Motorcycle
+COCO,6,bus,1200.0,255.0,320.0,1200.0,1176.0,1224.0,Typical Transit Bus
+COCO,13,stop sign,76.2,76.2,0.5,76.2,74.68,77.72,MUTCD Standard (30 inches)
+COCO,11,fire hydrant,30.0,30.0,85.0,85.0,83.3,86.7,NFPA Typical Fire Hydrant
+COCO,14,parking meter,20.0,15.0,130.0,130.0,127.4,132.6,Typical Parking Meter
+LVIS,1060,traffic cone,35.56,35.56,71.1,71.1,69.68,72.52,MUTCD Standard (28 inches)
+LVIS,662,license plate,30.48,15.24,0.1,30.48,29.87,31.09,US Standard License Plate (12x6 in)
+LVIS,860,mailbox,48.0,16.0,22.0,48.0,47.04,48.96,USPS Standard Mailbox
+LVIS,98,barrel,58.0,58.0,88.0,88.0,86.24,89.76,Standard 55-Gallon Drum
+LVIS,1072,trash can,55.0,55.0,69.2,69.2,67.8,70.58,Standard 32-Gallon Trash Can
+LVIS,1081,umbrella,95.0,95.0,80.0,95.0,93.1,96.9,Standard Umbrella (Opened)
+LVIS,1113,suitcase,45.0,25.0,65.0,65.0,63.7,66.3,Standard Medium Checked Luggage
+LVIS,460,hammer,33.0,13.0,3.0,33.0,32.34,33.66,Typical Claw Hammer
+LVIS,1099,wrench,20.0,4.0,1.0,20.0,19.6,20.4,Typical Hand Wrench
+LVIS,807,screwdriver,20.0,3.0,3.0,20.0,19.6,20.4,Typical Standard Screwdriver
+LVIS,599,iron,28.0,12.0,15.0,28.0,27.44,28.56,Typical Clothes Iron
+LVIS,878,ring,1.8,1.8,0.5,1.8,1.76,1.84,Typical Ring Inner Diameter
+LVIS,1133,watch,4.0,4.0,1.0,4.0,3.92,4.08,Typical Wristwatch Dial
+LVIS,486,glasses,14.0,14.0,4.0,14.0,13.72,14.28,Typical Eyeglasses Frame
+LVIS,789,pillow,66.0,50.0,15.0,66.0,64.68,67.32,Standard Bed Pillow
+LVIS,1083,towel,137.0,70.0,0.5,137.0,134.26,139.74,Standard Bath Towel
+LVIS,1084,toilet paper,11.4,11.4,11.4,11.4,11.17,11.63,Standard Toilet Paper Roll
+LVIS,529,guitar,100.0,38.0,10.0,100.0,98.0,102.0,Typical Full-Size Acoustic Guitar
+LVIS,1140,violin,60.0,21.0,6.0,60.0,58.8,61.2,Standard 4/4 Violin
